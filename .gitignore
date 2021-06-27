@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+#Datasets
+assignment_3_cmp_fundamentals.csv
+assignment_3_dataset_variable_definitions.csv
+assignment_3_ibes_eps_analyst_estimates.csv
+assignment_3_sp500_constituents_with_daily_mdata.csv
