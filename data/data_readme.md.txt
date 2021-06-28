@@ -8,3 +8,6 @@ assignment_3_ibes_esp_analyst_estimates.csv
 
 assignment_3_cmp_fundamentals.csv
 - Compustat fundamentals for S&P500 constituents,fiscal years 2019 and 2020
+
+F-F_Research_Data_Factors_daily
+- Data for the market model as obtained from https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
