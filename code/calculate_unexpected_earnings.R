@@ -5,7 +5,7 @@ library(dplyr)
 eps <- read_csv(
   "data/assignment_3_ibes_eps_analyst_estimates.csv", col_types = cols()
 )
-#For simplicity only keep companies with fiscal year = calendar year
+#Keep only observations from 2020
 eps <- eps[eps$anndats_act > as.Date("2019-12-31") & eps$anndats_act < as.Date("2021-01-01"),]
 
 
